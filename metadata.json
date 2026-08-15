@@ -1,0 +1,6 @@
+{
+  "name": "Мои Линзы",
+  "description": "Приложение для напоминания о замене контактных линз, отслеживания запасов коробочек и визитов к офтальмологу.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
